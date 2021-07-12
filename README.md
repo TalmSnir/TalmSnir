@@ -15,7 +15,9 @@ tech and design enthusiastic, works with passion and highly motivated to learn a
    [<img align="left" alt="dribbble" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" />][Dribbble]
    
 </br>
+
 ### Languages and Tools:
+
 </br>
    <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/72248784/110935474-1d6caa00-8338-11eb-9607-515f2ff096d5.png" />
