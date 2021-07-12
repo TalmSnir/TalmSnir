@@ -11,8 +11,8 @@ tech and design enthusiastic, works with passion and highly motivated to learn a
 ### Connect with me:
 
    [<img align="left" alt="email" width="26px" src="https://user-images.githubusercontent.com/72248784/110932204-d41a5b80-8333-11eb-8cdb-9ab15cb0ecd6.png" />][email]
-   [<img align="left" alt="linkedin" width="26px" src="https://user-images.githubusercontent.com/72248784/110931980-8dc4fc80-8333-11eb-9d5a-2f9ef85157b2.png" />][linkedin]
-   [<img align="left" alt="linkedin" width="26px" src="http://i.imgur.com/Vvy3Kru.png />]
+   [<img align="left" alt="linkedin" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+   [<img align="left" alt="dribbble" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg />]
    
 </br>
 ### Languages and Tools:
