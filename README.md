@@ -21,6 +21,7 @@ tech and design enthusiastic, works with passion and highly motivated to learn a
   <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+   <img align="left" alt="figma" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png" />
   
   
 
@@ -31,3 +32,4 @@ tech and design enthusiastic, works with passion and highly motivated to learn a
   
 [email]: talmsnir@gmail.com
 [linkedin]:  https://www.linkedin.com/in/talmsnir/
+[Dribbble]:  https://dribbble.com/TalmSnir
