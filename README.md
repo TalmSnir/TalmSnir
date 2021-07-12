@@ -12,6 +12,8 @@ tech and design enthusiastic, works with passion and highly motivated to learn a
 
    [<img align="left" alt="email" width="26px" src="https://user-images.githubusercontent.com/72248784/110932204-d41a5b80-8333-11eb-8cdb-9ab15cb0ecd6.png" />][email]
    [<img align="left" alt="linkedin" width="26px" src="https://user-images.githubusercontent.com/72248784/110931980-8dc4fc80-8333-11eb-9d5a-2f9ef85157b2.png" />][linkedin]
+   [<img align="left" alt="linkedin" width="26px" src="http://i.imgur.com/Vvy3Kru.png />]
+   
 </br>
 ### Languages and Tools:
 
@@ -21,9 +23,12 @@ tech and design enthusiastic, works with passion and highly motivated to learn a
   <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-   <img align="left" alt="figma" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/figma/figma.png" />
-  
-  
+   <img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/reactjs.svg" />
+     <img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/sass.svg" />
+       <img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/figma.svg" />
+   
+   
+   
 
 
   
