@@ -3,11 +3,10 @@
 
 ## Hello I'm Tal Snir 👋
 
-I'm electrical and electronics student at TAU. 
-tech and design enthusiastic, works with passion and highly motivated to learn and grow.
+ Self taught Frontend developer and UI designer.  
+ Tech and design enthusiastic, works with passion and highly motivated to learn and grow.
 
-- 🔭 currently working on expending my portfolio as a programmer: at the moment im working on automation projects with python.
-- 🌱 nowadays learning WebDev and advanced python.
+- 🔭 currently working on expending my portfolio as a programmer: learning React-js, advanced js and sass.
 - 👯 I’m looking to collaborate on anything intresting coming my way.
 
 
@@ -27,8 +26,8 @@ tech and design enthusiastic, works with passion and highly motivated to learn a
   <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
   <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
   <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
-<!--   <img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/reactjs.svg" /> -->
-<!--   <img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/sass.svg" /> -->
+<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/reactjs.svg" /> 
+ <img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/sass.svg" />
   <img align="left" alt="figma" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software/figma.svg" />
    
    
